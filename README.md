@@ -37,3 +37,14 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 7](multiplication-world/7)
 * [Level 8](multiplication-world/8)
 * [Level 9](multiplication-world/9)
+
+### Power World
+
+* [Level 1](power-world/1)
+* [Level 2](power-world/2)
+* [Level 3](power-world/3)
+* [Level 4](power-world/4)
+* [Level 5](power-world/5)
+* [Level 6](power-world/6)
+* [Level 7](power-world/7)
+* [Level 8](power-world/8)

@@ -1,0 +1,11 @@
+induction n with k h,
+rw pow_zero (a ^ m),
+rw mul_zero m,
+rw pow_zero a,
+refl,
+
+rw pow_succ (a ^ m) k,
+rw mul_succ m k,
+rw pow_add a (m * k) m,
+rw h,
+refl,

@@ -1,0 +1,12 @@
+induction n with k h,
+rw add_zero m,
+rw pow_zero a,
+rw mul_one (a ^ m),
+refl,
+
+rw add_succ m k,
+rw pow_succ a (m + k),
+rw pow_succ a k,
+rw ← mul_assoc (a ^ m) (a ^ k) a,
+rw h,
+refl,
