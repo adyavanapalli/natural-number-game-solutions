@@ -48,3 +48,15 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 6](power-world/6)
 * [Level 7](power-world/7)
 * [Level 8](power-world/8)
+
+### Function World
+
+* [Level 1](function-world/1)
+* [Level 2](function-world/2)
+* [Level 3](function-world/3)
+* [Level 4](function-world/4)
+* [Level 5](function-world/5)
+* [Level 6](function-world/6)
+* [Level 7](function-world/7)
+* [Level 8](function-world/8)
+* [Level 9](function-world/9)
