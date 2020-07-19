@@ -1,0 +1,9 @@
+induction b with k h,
+rw mul_zero a,
+rw zero_mul a,
+refl,
+
+rw mul_succ a k,
+rw h,
+rw ← succ_mul k a,
+refl,

@@ -1,0 +1,3 @@
+rw add_succ a 0,
+rw add_zero a,
+refl,

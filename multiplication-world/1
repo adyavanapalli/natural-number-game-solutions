@@ -1,0 +1,8 @@
+induction m with k h,
+rw mul_zero 0,
+refl,
+
+rw mul_succ 0 k,
+rw h,
+rw add_zero 0,
+refl,

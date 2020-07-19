@@ -1,0 +1,4 @@
+rw mul_comm a (b * c),
+rw mul_comm a c,
+rw mul_assoc b c a,
+refl,

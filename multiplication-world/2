@@ -1,0 +1,5 @@
+rw one_eq_succ_zero,
+rw mul_succ m 0,
+rw mul_zero m,
+rw zero_add m,
+refl,
