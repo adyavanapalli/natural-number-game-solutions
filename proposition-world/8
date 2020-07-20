@@ -1,0 +1,6 @@
+intros h₁ h₂,
+rw not_iff_imp_false at h₂,
+intro p,
+apply h₂,
+apply h₁,
+exact p,

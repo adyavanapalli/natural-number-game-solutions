@@ -60,3 +60,15 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 7](function-world/7)
 * [Level 8](function-world/8)
 * [Level 9](function-world/9)
+
+### Proposition World
+
+* [Level 1](proposition-world/1)
+* [Level 2](proposition-world/2)
+* [Level 3](proposition-world/3)
+* [Level 4](proposition-world/4)
+* [Level 5](proposition-world/5)
+* [Level 6](proposition-world/6)
+* [Level 7](proposition-world/7)
+* [Level 8](proposition-world/8)
+* [Level 9](proposition-world/9)

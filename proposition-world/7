@@ -1,0 +1,4 @@
+intros h₁ h₂ p,
+apply h₂,
+apply h₁,
+exact p,
