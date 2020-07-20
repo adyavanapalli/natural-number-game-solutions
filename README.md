@@ -101,3 +101,10 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 11](advanced-addition-world/11)
 * [Level 12](advanced-addition-world/12)
 * [Level 13](advanced-addition-world/13)
+
+### Advanced Multiplication World
+
+* [Level 1](advanced-multiplication-world/1)
+* [Level 2](advanced-multiplication-world/2)
+* [Level 3](advanced-multiplication-world/3)
+* [Level 4](advanced-multiplication-world/4)

@@ -1,0 +1,10 @@
+intros h₁ h₂ h₃,
+cases b with k,
+rw mul_zero a at h₃,
+have h₄ := h₂(h₃),
+exact h₄,
+
+rw mul_succ a k at h₃,
+have h₄ := add_left_eq_zero(h₃),
+have h₅ := h₁(h₄),
+exact h₅,
