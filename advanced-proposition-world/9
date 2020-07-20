@@ -1,0 +1,5 @@
+intro h,
+cases h with p not_p,
+exfalso,
+apply not_p,
+exact p,

@@ -72,3 +72,16 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 7](proposition-world/7)
 * [Level 8](proposition-world/8)
 * [Level 9](proposition-world/9)
+
+### Advanced Proposition World
+
+* [Level 1](advanced-proposition-world/1)
+* [Level 2](advanced-proposition-world/2)
+* [Level 3](advanced-proposition-world/3)
+* [Level 4](advanced-proposition-world/4)
+* [Level 5](advanced-proposition-world/5)
+* [Level 6](advanced-proposition-world/6)
+* [Level 7](advanced-proposition-world/7)
+* [Level 8](advanced-proposition-world/8)
+* [Level 9](advanced-proposition-world/9)
+* [Level 10](advanced-proposition-world/10)

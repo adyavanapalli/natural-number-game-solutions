@@ -1,0 +1,30 @@
+split,
+intro h₁,
+cases h₁ with p h₂,
+cases h₂ with q r,
+left,
+split,
+exact p,
+exact q,
+
+right,
+split,
+exact p,
+exact r,
+
+intros h₃,
+cases h₃ with h₄ h₅,
+split,
+cases h₄ with p q,
+exact p,
+
+cases h₄ with p q,
+left,
+exact q,
+
+cases h₅ with p r,
+split,
+exact p,
+
+right,
+exact r,

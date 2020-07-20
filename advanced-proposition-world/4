@@ -1,0 +1,13 @@
+intros h₁,
+cases h₁ with h₂ h₃,
+intro h₄,
+split,
+intro p,
+apply h₄.1,
+apply h₂,
+exact p,
+
+intro r,
+apply h₃,
+apply h₄.2,
+exact r,

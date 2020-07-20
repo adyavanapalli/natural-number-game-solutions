@@ -1,0 +1,5 @@
+intro h₁,
+cases h₁ with p q,
+split,
+exact q,
+exact p,
