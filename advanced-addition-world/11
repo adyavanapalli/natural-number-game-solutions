@@ -1,0 +1,4 @@
+rw add_comm a b,
+intro h₁,
+have h₂ := add_left_eq_zero(h₁),
+exact h₂,

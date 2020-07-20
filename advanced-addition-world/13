@@ -1,0 +1,11 @@
+cases n with k,
+exact zero_ne_succ 0,
+
+intro h₁,
+have h₂ := succ_inj(h₁),
+symmetry at h₂,
+rw succ_eq_add_one at h₂,
+have h₃ := eq_zero_of_add_right_eq_self(h₂),
+rw one_eq_succ_zero at h₃,
+apply succ_ne_zero 0,
+exact h₃,

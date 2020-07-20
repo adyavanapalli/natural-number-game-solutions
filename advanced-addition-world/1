@@ -1,0 +1,2 @@
+have h₁ := succ_inj(hs),
+exact h₁,

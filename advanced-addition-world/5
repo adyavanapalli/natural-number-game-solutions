@@ -1,0 +1,11 @@
+intro h₁,
+induction t with k h₂,
+rw add_zero a at h₁,
+rw add_zero b at h₁,
+exact h₁,
+
+rw add_succ a at h₁,
+rw add_succ b at h₁,
+have h₃ := succ_inj(h₁),
+have h₄ := h₂(h₃),
+exact h₄,

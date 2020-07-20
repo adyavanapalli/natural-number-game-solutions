@@ -1,0 +1,8 @@
+cases b with k,
+refl,
+
+rw add_succ a k at H,
+exfalso,
+have h₁ := succ_ne_zero (a + k),
+have h₂ := h₁(H),
+exact h₂,

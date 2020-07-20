@@ -85,3 +85,19 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 8](advanced-proposition-world/8)
 * [Level 9](advanced-proposition-world/9)
 * [Level 10](advanced-proposition-world/10)
+
+### Advanced Addition World
+
+* [Level 1](advanced-addition-world/1)
+* [Level 2](advanced-addition-world/2)
+* [Level 3](advanced-addition-world/3)
+* [Level 4](advanced-addition-world/4)
+* [Level 5](advanced-addition-world/5)
+* [Level 6](advanced-addition-world/6)
+* [Level 7](advanced-addition-world/7)
+* [Level 8](advanced-addition-world/8)
+* [Level 9](advanced-addition-world/9)
+* [Level 10](advanced-addition-world/10)
+* [Level 11](advanced-addition-world/11)
+* [Level 12](advanced-addition-world/12)
+* [Level 13](advanced-addition-world/13)
