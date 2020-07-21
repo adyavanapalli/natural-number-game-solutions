@@ -5,5 +5,5 @@ refl,
 
 rw mul_succ a k,
 rw h,
-rw ← succ_mul k a,
+rw succ_mul k a,
 refl,
