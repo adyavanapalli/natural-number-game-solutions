@@ -1,4 +1,4 @@
-# natural-number-game
+# natural-number-game-solutions
 
 Solutions to [Imperial College London's Natural Number
 Game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/), a gamified
