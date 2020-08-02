@@ -1,0 +1,8 @@
+intro h,
+intro t,
+cases h with k h,
+
+use k,
+rw h,
+rw add_right_comm a k t,
+refl,

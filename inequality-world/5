@@ -1,0 +1,7 @@
+cases hab with k₁ h₁,
+cases hbc with k₂ h₂,
+rw h₂,
+rw h₁,
+use (k₁ + k₂),
+rw add_assoc a k₁ k₂,
+refl,

@@ -1,0 +1,4 @@
+cases h with k h,
+symmetry at h,
+have h := add_right_eq_zero h,
+exact h,

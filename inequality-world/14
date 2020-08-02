@@ -1,0 +1,9 @@
+induction t with k h₁,
+rw zero_add a,
+rw zero_add b,
+exact h,
+
+rw succ_add k a,
+rw succ_add k b,
+apply succ_le_succ,
+exact h₁,

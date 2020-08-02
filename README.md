@@ -108,3 +108,23 @@ an interactive + automated theorem prover developed by Microsoft Research called
 * [Level 2](advanced-multiplication-world/2)
 * [Level 3](advanced-multiplication-world/3)
 * [Level 4](advanced-multiplication-world/4)
+
+### Inequality World
+
+* [Level 1](inequality-world/1)
+* [Level 2](inequality-world/2)
+* [Level 3](inequality-world/3)
+* [Level 4](inequality-world/4)
+* [Level 5](inequality-world/5)
+* [Level 6](inequality-world/6)
+* [Level 7](inequality-world/7)
+* [Level 8](inequality-world/8)
+* [Level 9](inequality-world/9)
+* [Level 10](inequality-world/10)
+* [Level 11](inequality-world/11)
+* [Level 12](inequality-world/12)
+* [Level 13](inequality-world/13)
+* [Level 14](inequality-world/14)
+* [Level 15](inequality-world/15)
+* [Level 16](inequality-world/16)
+* [Level 17](inequality-world/17)

@@ -1,0 +1,19 @@
+revert a,
+induction b with k₁ h₁,
+intro a,
+right,
+exact zero_le a,
+
+intro a,
+cases a with k₂ h₂,
+left,
+exact zero_le (succ k₁),
+
+cases h₁ k₂,
+left,
+apply succ_le_succ k₂ k₁,
+exact h,
+
+right,
+apply succ_le_succ k₁ k₂,
+exact h,
