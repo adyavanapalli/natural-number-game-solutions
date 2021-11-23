@@ -1,3 +1,2 @@
-have h₁ := succ_inj(h),
-have h₂ := succ_inj(h₁),
-exact h₂,
+have h₁ := succ_inj(h), 
+exact succ_inj(h₁),
