@@ -1,7 +1,7 @@
-intro h, /- get rid of the implication -/
-rw ← add_zero a at h,
-rw add_assoc a 0 b at h, /- so that zero_add can find 0 + b 🙄 -/
-rw zero_add b at h, /- (0 + b) = b -/
-rw add_left_cancel a b 0, /- directly rewrite first goal's `b`  -/
+intro h₁,
+rw ← add_zero a at h₁,
+rw add_assoc a 0 b at h₁,
+rw zero_add b at h₁,
+rw add_left_cancel a b 0,
 refl,
-apply h, /- resolve rw induced subgoal -/
+apply h₁,
